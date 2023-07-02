@@ -1,7 +1,7 @@
-import "./findus.css";
+import './findus.css'
 
 const FindUs = () => {
-  return <div>FindUs</div>;
-};
+  return <div>FindUs</div>
+}
 
-export default FindUs;
+export default FindUs

@@ -1,7 +1,7 @@
-import "./intro.css";
+import './intro.css'
 
 const Intro = () => {
-  return <div>Intro</div>;
-};
+  return <div>Intro</div>
+}
 
-export default Intro;
+export default Intro

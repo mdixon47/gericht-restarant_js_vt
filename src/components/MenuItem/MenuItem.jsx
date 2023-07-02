@@ -1,7 +1,7 @@
-import "./menuItem.css";
+import './menuItem.css'
 
 function MenuItem() {
-  return <div>MenuItem</div>;
+  return <div>MenuItem</div>
 }
 
-export default MenuItem;
+export default MenuItem
