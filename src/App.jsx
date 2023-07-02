@@ -23,7 +23,7 @@ const App = () => (
     <Laurels />
     <Gallery />
     <FindUs />
-    <Footer />
+    <Footer /> 
   </div>
 )
 
