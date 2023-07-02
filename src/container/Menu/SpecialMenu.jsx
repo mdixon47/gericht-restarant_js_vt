@@ -1,7 +1,7 @@
-import './specialMenu.css'
+import "./specialMenu.css";
 
 function SpecialMenu() {
-  return <div>SpecialMenu</div>
+  return <div>SpecialMenu</div>;
 }
 
-export default SpecialMenu
+export default SpecialMenu;

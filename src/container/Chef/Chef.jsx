@@ -1,7 +1,7 @@
-import './chef.css'
+import "./chef.css";
 
 const Chef = () => {
-  return <div>Chef</div>
-}
+  return <div>Chef</div>;
+};
 
-export default Chef
+export default Chef;

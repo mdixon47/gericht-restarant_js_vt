@@ -1,7 +1,7 @@
-import './gallery.css'
+import "./gallery.css";
 
 const Gallery = () => {
-  return <div>Gallery</div>
-}
+  return <div>Gallery</div>;
+};
 
-export default Gallery
+export default Gallery;

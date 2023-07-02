@@ -1,7 +1,7 @@
-import './footerOverlay.css'
+import "./footerOverlay.css";
 
 const FooterOverlay = () => {
-  return <div>FooterOverlay</div>
-}
+  return <div>FooterOverlay</div>;
+};
 
-export default FooterOverlay
+export default FooterOverlay;

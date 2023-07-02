@@ -8,9 +8,9 @@ import {
   Intro,
   Laurels,
   SpecialMenu,
-} from './container'
-import { Navbar } from './components'
-import './App.css'
+} from "./container";
+import { Navbar } from "./components";
+import "./App.css";
 
 const App = () => (
   <div>
@@ -23,8 +23,8 @@ const App = () => (
     <Laurels />
     <Gallery />
     <FindUs />
-    <Footer /> 
+    <Footer />
   </div>
-)
+);
 
-export default App
+export default App;

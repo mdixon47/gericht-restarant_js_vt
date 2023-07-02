@@ -1,7 +1,7 @@
-import './newsletter.css'
+import "./newsletter.css";
 
 const Newsletter = () => {
-  return <div>Newsletter</div>
-}
+  return <div>Newsletter</div>;
+};
 
-export default Newsletter
+export default Newsletter;

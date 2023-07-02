@@ -1,7 +1,7 @@
-import './laurels.css'
+import "./laurels.css";
 
 const Laurels = () => {
-  return <div>Laurels</div>
-}
+  return <div>Laurels</div>;
+};
 
-export default Laurels
+export default Laurels;
